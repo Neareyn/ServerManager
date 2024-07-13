@@ -46,7 +46,8 @@ You can set a default command sequence to be executed when the tool starts by mo
 You can add more command sequences as you need.
 ## Usage/Examples
 
-![grafik](https://github.com/user-attachments/assets/5be362d0-6342-434c-b036-56a8e98469a5)
+![grafik](https://github.com/user-attachments/assets/962b2dfc-8820-4f05-93b1-8de591ff7623)
+
 
 
 Once the tool is running, you can enter the following commands:
