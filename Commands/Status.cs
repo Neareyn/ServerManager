@@ -106,7 +106,7 @@ public static class Status
     
                 Console.ResetColor();
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("Enter a command (see 'help' for a list):");
+                Console.WriteLine("Enter a command ('help' for a list of all commands):");
                 Console.ResetColor();
                 previousStatuses = new Dictionary<string, (bool, int)>(currentStatuses);
             }
