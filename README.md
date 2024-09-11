@@ -21,7 +21,7 @@ Intended to use for Flyff Servers but can also be used for other cases.
 1. Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/ServerStarter.git
+git clone https://github.com/Neareyn/ServerManager
 cd ServerStarter
 ```
 
